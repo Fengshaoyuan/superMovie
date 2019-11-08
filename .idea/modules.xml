@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modules/AopLib/AopLib.iml" filepath="$PROJECT_DIR$/modules/AopLib/AopLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/common.iml" filepath="$PROJECT_DIR$/modules/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/dkplayer-java/dkplayer-java.iml" filepath="$PROJECT_DIR$/modules/dkplayer-java/dkplayer-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/dlanlib/dlanlib.iml" filepath="$PROJECT_DIR$/modules/dlanlib/dlanlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/downloadlib/downloadlib.iml" filepath="$PROJECT_DIR$/modules/downloadlib/downloadlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/filepicker/filepicker.iml" filepath="$PROJECT_DIR$/modules/filepicker/filepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/modules.iml" filepath="$PROJECT_DIR$/modules/modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/pagelayout-java/pagelayout-java.iml" filepath="$PROJECT_DIR$/modules/pagelayout-java/pagelayout-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/playerlib/playerlib.iml" filepath="$PROJECT_DIR$/modules/playerlib/playerlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superMovie.iml" filepath="$PROJECT_DIR$/superMovie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/thunder/thunder.iml" filepath="$PROJECT_DIR$/modules/thunder/thunder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/webview/webview.iml" filepath="$PROJECT_DIR$/modules/webview/webview.iml" />
+    </modules>
+  </component>
+</project>

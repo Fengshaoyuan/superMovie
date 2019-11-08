@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#249bb3</color>
+    <color name="colorPrimaryDark">#00249BB3</color>
+    <color name="colorAccent">#249bb3</color>
+    <color name="editcolor">#fde6e5e5</color>
+    <color name="editcolorhint">#fda1a1a1</color>
+    <color name="confirm">#fd5e5e5e</color>
+    <color name="titlecor">#fd2d2d2d</color>
+    <color name="gm_text">#666666</color>
+    <color name="homepage_item_press">#00bf77</color>
+    <color name="background">#BB000000</color>
+    <!-- 橙色 -->
+    <color name="theme_bgcolor">#eeeeee</color>
+    <!-- 空白区域背景色 -->
+    <color name="theme_white">#fff</color>
+    <!-- 有内容区域背景色 -->
+</resources>

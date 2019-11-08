@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/modules" />
+            <option value="$PROJECT_DIR$/modules/AopLib" />
+            <option value="$PROJECT_DIR$/modules/common" />
+            <option value="$PROJECT_DIR$/modules/dkplayer-java" />
+            <option value="$PROJECT_DIR$/modules/dlanlib" />
+            <option value="$PROJECT_DIR$/modules/downloadlib" />
+            <option value="$PROJECT_DIR$/modules/filepicker" />
+            <option value="$PROJECT_DIR$/modules/pagelayout-java" />
+            <option value="$PROJECT_DIR$/modules/playerlib" />
+            <option value="$PROJECT_DIR$/modules/thunder" />
+            <option value="$PROJECT_DIR$/modules/webview" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

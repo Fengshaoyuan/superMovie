@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">极光影院</string>
+    <string name="action_share" translatable="false">分享</string>
+    <string name="string_share_text" translatable="false">发现了一个看电影神器，每天更新多种大片，美剧，追剧超方便，点我下载吧~：https://fir.im/btmovie [分享自极光影院]</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="clear" translatable="false">清空</string>
+    <string name="search_history" translatable="false">搜索历史：</string>
+    <string name="search" translatable="false">搜索</string>
+    <string name="search_keyword" translatable="false">输入搜索关键词</string>
+    <string name="search_none_tips" translatable="false">搜索内容不能为空</string>
+    <string name="title_activity_on_line_movie" translatable="false">OnLineMovieActivity</string>
+    <string name="section_format" translatable="false">Hello World from section: %1$d</string>
+    <string name="title_activity_online_detail_page" translatable="false">OnlineDetailPageActivity</string>
+    <string name="favor" translatable="false">收藏</string>
+    <string name="title_activity_online_film" translatable="false">OnlineFilmActivity</string>
+</resources>
